@@ -4,7 +4,7 @@ A modern and responsive Music Player web application built using **React JS**. T
 
 ## 📌 Project Description
 
-The **Music App** is a front-end web application designed to mimic the core functionality of popular music streaming platforms. It offers features such as play/pause control, track listing, artist details, and responsive UI for both desktop and mobile.
+The **Music App** is a front-end web application designed to mimic the core functionality of popular music streaming platforms. It offers features such as play/pause control, track listing, artist details, and responsive UI for both desktop .
 
 This project is ideal for learning about React component structure, state management, props, hooks, routing, and working with media files in the browser.
 
